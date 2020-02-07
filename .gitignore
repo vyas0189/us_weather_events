@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+Data Description.docx
+US_WeatherEvents_2016-2019.csv
+        
 # Distribution / packaging
 .Python
 build/
